@@ -7,7 +7,7 @@
 
 #  Q2. Write a program to print 10 using 2 positive numbers less than 6 in C++ as output.
 ## Ans:
-### In code output folder.
+### In output folder.
 
  # Q3. How much space does the following data types take?
 ### int - 4 byte
