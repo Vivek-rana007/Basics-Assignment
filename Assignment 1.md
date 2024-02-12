@@ -32,8 +32,6 @@ Ans: In ouput folder
  Ans:
  _FLOAT
  FLOAT
- hello 
- hello
- hello
+
 
 
